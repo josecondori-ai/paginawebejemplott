@@ -50,6 +50,15 @@ header{
    
    
 }
+.about{
+    background-color: black;
+}
+.contenedor-img-texto{
+    background-color: blueviolet;
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+}
 
 
 /*section*/
