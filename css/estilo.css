@@ -38,7 +38,18 @@ header{
 
 
 /*clases*/
-
+.hero{
+    background:linear-gradient(rgba(44, 174, 186, 0.7), rgba(0, 0, 0, 0.7)) , url("../img/main.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height:80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+   
+}
 
 
 /*section*/
@@ -48,7 +59,7 @@ px==>texto ni con margin o padding
 4rem==>64px
 */
 section{
-    background-color: red;
+   
     border: 1px solid black;
     padding:5rem 0 ;
 
